@@ -1,0 +1,6 @@
+Gitflow
+mobi.hsz.idea.gitignore
+com.crashlytics.tools.androidstudio
+com.developerphil.adbidea
+de.mprengemann.intellij.plugin.androidicons
+org.jetbrains.kotlin
